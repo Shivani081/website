@@ -1,0 +1,23 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+h1{
+    font-family: "Sofia", sans-serif;
+}
+body 
+{
+    overflow-x: hidden;
+}
+.carousel-item img
+{
+height: 80vh;
+width: 100%;
+}
+.card-body img
+{
+    min-width: 50%;
+    max-height: 200px;
+}
